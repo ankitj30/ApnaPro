@@ -1,1 +1,1 @@
-Sample Textdddd
+Sample Text
